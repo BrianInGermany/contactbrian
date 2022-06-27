@@ -1,7 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Junker-Latocha;Brian ;;;
-FN:Brian  Junker-Latocha
+N:Junker-Latocha;Brian;;;
+FN:Brian Junker-Latocha
 ORG:
 ADR;TYPE=WORK:
 TITLE:
@@ -13,7 +13,8 @@ EMAIL;TYPE=WORK:brian@thejunkyard.cc
 URL;TYPE=Digital Business Card:https://contactbrian.me
 URL:https://thejunkyard.cc
 URL;TYPE=Website:https://thejunkyard.cc
+URL;TYPE=LinkedIn:https://linkedin.com/in/junker-latocha
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:
-UID:EnBizCard-100371298
+UID:EnBizCard-100420911
 END:VCARD
