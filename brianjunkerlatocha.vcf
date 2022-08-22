@@ -2,19 +2,19 @@ BEGIN:VCARD
 VERSION:3.0
 N:Junker-Latocha;Brian;;;
 FN:Brian Junker-Latocha
-ORG:
+ORG:VUI.agency
 ADR;TYPE=WORK:
-TITLE:
+TITLE:Senior Architect
 TEL;TYPE=CELL:+4917644420427
 TEL;TYPE=WORK:
 TEL;TYPE=HOME:
 TEL;TYPE=MSG:
-EMAIL;TYPE=WORK:brian@thejunkyard.cc
+EMAIL;TYPE=WORK:
 URL;TYPE=Digital Business Card:https://contactbrian.me
-URL:https://thejunkyard.cc
-URL;TYPE=Website:https://thejunkyard.cc
-URL;TYPE=LinkedIn:https://linkedin.com/in/junker-latocha
+URL:https://vui.agency
+URL;TYPE=Website:https://vui.agency
+URL;TYPE=LinkedIn:https://linkedin.com/in/junker-latocha/
 KEY;TYPE=PGP;ENCODING=b:
-NOTE:
-UID:EnBizCard-100420911
+NOTE:Putting charisma in your Conversational AI
+UID:EnBizCard-100840442
 END:VCARD
