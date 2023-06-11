@@ -2,19 +2,13 @@ BEGIN:VCARD
 VERSION:3.0
 N:Junker-Latocha;Brian;;;
 FN:Brian Junker-Latocha
-ORG:VUI.agency
-ADR;TYPE=WORK:
-TITLE:Lead Evangelist Conversational AI
-TEL;TYPE=CELL:+4915207724584
+ADR;TYPE=HOME:
+TEL;TYPE=HOME:+4917644420427
 TEL;TYPE=WORK:
-TEL;TYPE=HOME:
 TEL;TYPE=MSG:
-EMAIL;TYPE=WORK:brian.junker-latocha@vui.agency
-URL;TYPE=Digital Business Card:https://contactbrian.me
-URL:https://vui.agency
-URL;TYPE=Website:https://vui.agency
+EMAIL;TYPE=HOME:brian@junker-latocha.com
+URL;TYPE=Website:https://junker-latocha.com
 URL;TYPE=LinkedIn:https://linkedin.com/in/junker-latocha/
 KEY;TYPE=PGP;ENCODING=b:
-NOTE:Putting Charisma in your Conversational AI
 UID:EnBizCard-100817805
 END:VCARD
